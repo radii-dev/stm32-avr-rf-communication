@@ -1,0 +1,4 @@
+load STM32F429ZITx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "D:\ICT Smart Device\project\UART_RF_test\RTE\Device\STM32F429ZITx\" 
